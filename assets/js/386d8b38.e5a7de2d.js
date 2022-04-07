@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc_kj_96=self.webpackChunkdoc_kj_96||[]).push([[285],{9438:function(o){o.exports=JSON.parse('{"permalink":"/kj96/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
