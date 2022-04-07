@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc_kj_96=self.webpackChunkdoc_kj_96||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/kj96/blog/welcome"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc_kj_96=self.webpackChunkdoc_kj_96||[]).push([[877],{6154:function(l){l.exports=JSON.parse('{"hello":{"allTagsPath":"/kj96/blog/tags","name":"hello","count":1,"permalink":"/kj96/blog/tags/hello"},"intro":{"allTagsPath":"/kj96/blog/tags","name":"intro","count":1,"permalink":"/kj96/blog/tags/intro"}}')}}]);
